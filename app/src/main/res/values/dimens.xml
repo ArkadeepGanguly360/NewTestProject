@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_text">20sp</dimen>
+    <dimen name="edit_text">15sp</dimen>
+    <dimen name="button_text">14sp</dimen>
+    <dimen name="toolbar_text">20sp</dimen>
+</resources>
